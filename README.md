@@ -8,3 +8,7 @@ This is a simple Library Management System developed in Java using core Object-O
 It allows users to add books, issue books, and return books, simulating basic library operations. 
 The project demonstrates the use of classes, objects, and methods in a clean and beginner-friendly way.
 
+A simple Java console application to create, view, and manage personal notes. 
+This program allows users to store their notes in a text file, read them anytime, and update or delete as needed.
+It uses Java’s file handling features (FileReader, FileWriter, etc.) to ensure your notes are saved and loaded from disk, making them persistent between sessions. 
+Perfect for practicing file I/O and basic text-based UI in Java.
