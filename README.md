@@ -12,3 +12,7 @@ A simple Java console application to create, view, and manage personal notes.
 This program allows users to store their notes in a text file, read them anytime, and update or delete as needed.
 It uses Java’s file handling features (FileReader, FileWriter, etc.) to ensure your notes are saved and loaded from disk, making them persistent between sessions. 
 Perfect for practicing file I/O and basic text-based UI in Java.
+
+This project is a simple console-based Java application that demonstrates Object-Oriented Programming concepts by simulating basic banking operations.
+Users can create an account, deposit money, withdraw funds, check their balance, and view a transaction history. 
+The program uses classes, methods, and encapsulation to manage account data efficiently.
