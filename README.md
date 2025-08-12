@@ -16,3 +16,7 @@ Perfect for practicing file I/O and basic text-based UI in Java.
 This project is a simple console-based Java application that demonstrates Object-Oriented Programming concepts by simulating basic banking operations.
 Users can create an account, deposit money, withdraw funds, check their balance, and view a transaction history. 
 The program uses classes, methods, and encapsulation to manage account data efficiently.
+
+A simple desktop GUI application built with Java Swing to manage daily tasks. 
+Users can add and delete tasks with a clean and interactive interface. 
+This project demonstrates the use of JFrame, JButton, JTextField, and JList for building desktop applications using Java’s built-in Swing library.
