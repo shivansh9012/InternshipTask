@@ -20,3 +20,5 @@ The program uses classes, methods, and encapsulation to manage account data effi
 A simple desktop GUI application built with Java Swing to manage daily tasks. 
 Users can add and delete tasks with a clean and interactive interface. 
 This project demonstrates the use of JFrame, JButton, JTextField, and JList for building desktop applications using Java’s built-in Swing library.
+
+This is a Java-based application that manages employee records using a MySQL database. It allows you to add, update, delete, and view employee details through a simple console interface. The app uses JDBC for database connectivity, making it a practical example of integrating Java with relational databases for CRUD operations
