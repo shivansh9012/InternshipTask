@@ -22,3 +22,5 @@ Users can add and delete tasks with a clean and interactive interface.
 This project demonstrates the use of JFrame, JButton, JTextField, and JList for building desktop applications using Java’s built-in Swing library.
 
 This is a Java-based application that manages employee records using a MySQL database. It allows you to add, update, delete, and view employee details through a simple console interface. The app uses JDBC for database connectivity, making it a practical example of integrating Java with relational databases for CRUD operations
+
+This is a simple console-based Quiz Application built in Java. It presents a series of multiple-choice questions, takes user input, evaluates answers, and displays the final score. The project demonstrates the use of Java control flow, collections, and basic input/output handling.
